@@ -10,3 +10,9 @@ Modificando archivo Jhojan Mora
 
 Este repositorio tratará acerca de una práctica de GIT en vivo.
 
+
+
+
+ sebastian cervantes - colaborador
+
+
